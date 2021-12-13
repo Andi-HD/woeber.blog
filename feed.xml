@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Woeber.Blog</title>
-    <link href="http://woeber.blog/feed.xml" rel="self" />
-    <link href="http://woeber.blog" />
+    <link href="https://andi-hd.github.io/woeber.blog/feed.xml" rel="self" />
+    <link href="https://andi-hd.github.io/woeber.blog" />
     <updated>2020-11-27T18:05:57+01:00</updated>
     <author>
         <name>Andreas</name>
     </author>
-    <id>http://woeber.blog</id>
+    <id>https://andi-hd.github.io/woeber.blog</id>
 
     <entry>
         <title>Start: Mountainbike</title>
         <author>
             <name>Andreas</name>
         </author>
-        <link href="http://woeber.blog/start-mountainbike.html"/>
-        <id>http://woeber.blog/start-mountainbike.html</id>
+        <link href="https://andi-hd.github.io/woeber.blog/start-mountainbike.html"/>
+        <id>https://andi-hd.github.io/woeber.blog/start-mountainbike.html</id>
             <category term="Mountain-Bike"/>
 
         <updated>2020-11-27T18:05:57+01:00</updated>
@@ -31,8 +31,8 @@
         <author>
             <name>Andreas</name>
         </author>
-        <link href="http://woeber.blog/inline-skaten-die-etwas-andere-tour.html"/>
-        <id>http://woeber.blog/inline-skaten-die-etwas-andere-tour.html</id>
+        <link href="https://andi-hd.github.io/woeber.blog/inline-skaten-die-etwas-andere-tour.html"/>
+        <id>https://andi-hd.github.io/woeber.blog/inline-skaten-die-etwas-andere-tour.html</id>
             <category term="Inline-Skaten"/>
 
         <updated>2020-05-02T15:39:44+02:00</updated>
@@ -48,8 +48,8 @@
         <author>
             <name>Andreas</name>
         </author>
-        <link href="http://woeber.blog/kuckucksbahnel.html"/>
-        <id>http://woeber.blog/kuckucksbahnel.html</id>
+        <link href="https://andi-hd.github.io/woeber.blog/kuckucksbahnel.html"/>
+        <id>https://andi-hd.github.io/woeber.blog/kuckucksbahnel.html</id>
             <category term="Wandern"/>
 
         <updated>2017-09-18T20:58:17+02:00</updated>
@@ -65,8 +65,8 @@
         <author>
             <name>Andreas</name>
         </author>
-        <link href="http://woeber.blog/willkommen.html"/>
-        <id>http://woeber.blog/willkommen.html</id>
+        <link href="https://andi-hd.github.io/woeber.blog/willkommen.html"/>
+        <id>https://andi-hd.github.io/woeber.blog/willkommen.html</id>
             <category term="Wandern"/>
             <category term="Sonstiges"/>
             <category term="Smarthome"/>
