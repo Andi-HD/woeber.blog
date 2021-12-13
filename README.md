@@ -1,2 +1,0 @@
-# woeber.blog
-woeber.blog

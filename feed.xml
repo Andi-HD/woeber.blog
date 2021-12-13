@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Woeber.Blog</title>
+    <link href="https://andi-hd.github.io/woeber.blog/feed.xml" rel="self" />
+    <link href="https://andi-hd.github.io/woeber.blog" />
+    <updated>2020-11-27T18:05:57+01:00</updated>
+    <author>
+        <name>Andreas</name>
+    </author>
+    <id>https://andi-hd.github.io/woeber.blog</id>
+
+    <entry>
+        <title>Start: Mountainbike</title>
+        <author>
+            <name>Andreas</name>
+        </author>
+        <link href="https://andi-hd.github.io/woeber.blog/start-mountainbike.html"/>
+        <id>https://andi-hd.github.io/woeber.blog/start-mountainbike.html</id>
+            <category term="Mountain-Bike"/>
+
+        <updated>2020-11-27T18:05:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Es gibt im Leben so Ereignisse, die einfach das Zeug dazu haben die Weichen zu stellen. Ein solches Ereignis stellt sicherlich&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Inline-Skaten - die etwas andere Tour</title>
+        <author>
+            <name>Andreas</name>
+        </author>
+        <link href="https://andi-hd.github.io/woeber.blog/inline-skaten-die-etwas-andere-tour.html"/>
+        <id>https://andi-hd.github.io/woeber.blog/inline-skaten-die-etwas-andere-tour.html</id>
+            <category term="Inline-Skaten"/>
+
+        <updated>2020-05-02T15:39:44+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Deshalb brauche ich keine Rennen! Oder die etwas andere Tour · Veröffentlicht 26. August 2013 Inlineskatetouren – was ist das&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Kuckucksbähnel</title>
+        <author>
+            <name>Andreas</name>
+        </author>
+        <link href="https://andi-hd.github.io/woeber.blog/kuckucksbahnel.html"/>
+        <id>https://andi-hd.github.io/woeber.blog/kuckucksbahnel.html</id>
+            <category term="Wandern"/>
+
+        <updated>2017-09-18T20:58:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Ein Ausflug mit der Familie. Da hatte sich dieses Jahr das Kuckucksb&auml;hnel in Neustadt an der Weinstra&szlig;e aufgedr&auml;ngt. Eine sch&ouml;ne&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Willkommen</title>
+        <author>
+            <name>Andreas</name>
+        </author>
+        <link href="https://andi-hd.github.io/woeber.blog/willkommen.html"/>
+        <id>https://andi-hd.github.io/woeber.blog/willkommen.html</id>
+            <category term="Wandern"/>
+            <category term="Sonstiges"/>
+            <category term="Smarthome"/>
+            <category term="Mountain-Bike"/>
+
+        <updated>2020-05-02T15:38:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                    ...auch dieser Blog muss mit "Hello World!" anfangen! 
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+</feed>
