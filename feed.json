@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Woeber.Blog",
     "description": "",
-    "home_page_url": "https://andi-hd.github.io/woeber.blog",
-    "feed_url": "https://andi-hd.github.io/woeber.blog/feed.json",
+    "home_page_url": "https://woeber.blog",
+    "feed_url": "https://woeber.blog/feed.json",
     "user_comment": "",
-    "icon": "https://andi-hd.github.io/woeber.blog/media/website/Bildschirmfoto_2017-08-31-2.png",
+    "icon": "https://woeber.blog/media/website/Bildschirmfoto_2017-08-31-2.png",
     "author": {
         "name": "Andreas"
     },
     "items": [
         {
-            "id": "https://andi-hd.github.io/woeber.blog/start-mountainbike.html",
-            "url": "https://andi-hd.github.io/woeber.blog/start-mountainbike.html",
+            "id": "https://woeber.blog/start-mountainbike.html",
+            "url": "https://woeber.blog/start-mountainbike.html",
             "title": "Start: Mountainbike",
             "summary": "Es gibt im Leben so Ereignisse, die einfach das Zeug dazu haben die Weichen zu stellen. Ein solches Ereignis stellt sicherlich&hellip;",
             "author": {
@@ -25,8 +25,8 @@
             "date_modified": "2020-11-27T18:05:57+01:00"
         },
         {
-            "id": "https://andi-hd.github.io/woeber.blog/inline-skaten-die-etwas-andere-tour.html",
-            "url": "https://andi-hd.github.io/woeber.blog/inline-skaten-die-etwas-andere-tour.html",
+            "id": "https://woeber.blog/inline-skaten-die-etwas-andere-tour.html",
+            "url": "https://woeber.blog/inline-skaten-die-etwas-andere-tour.html",
             "title": "Inline-Skaten - die etwas andere Tour",
             "summary": "Deshalb brauche ich keine Rennen! Oder die etwas andere Tour · Veröffentlicht 26. August 2013 Inlineskatetouren – was ist das&hellip;",
             "author": {
@@ -39,8 +39,8 @@
             "date_modified": "2020-05-02T15:39:44+02:00"
         },
         {
-            "id": "https://andi-hd.github.io/woeber.blog/kuckucksbahnel.html",
-            "url": "https://andi-hd.github.io/woeber.blog/kuckucksbahnel.html",
+            "id": "https://woeber.blog/kuckucksbahnel.html",
+            "url": "https://woeber.blog/kuckucksbahnel.html",
             "title": "Kuckucksbähnel",
             "summary": "Ein Ausflug mit der Familie. Da hatte sich dieses Jahr das Kuckucksb&auml;hnel in Neustadt an der Weinstra&szlig;e aufgedr&auml;ngt. Eine sch&ouml;ne&hellip;",
             "author": {
@@ -53,8 +53,8 @@
             "date_modified": "2017-09-18T20:58:17+02:00"
         },
         {
-            "id": "https://andi-hd.github.io/woeber.blog/willkommen.html",
-            "url": "https://andi-hd.github.io/woeber.blog/willkommen.html",
+            "id": "https://woeber.blog/willkommen.html",
+            "url": "https://woeber.blog/willkommen.html",
             "title": "Willkommen",
             "summary": "...auch dieser Blog muss mit \"Hello World!\" anfangen! ",
             "author": {
