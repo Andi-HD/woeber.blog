@@ -19,7 +19,6 @@
                 "name": "Andreas"
             },
             "tags": [
-                   "Mountain-Bike"
             ],
             "date_published": "2017-09-07T22:06:19+02:00",
             "date_modified": "2020-11-27T18:05:57+01:00"
@@ -33,7 +32,6 @@
                 "name": "Andreas"
             },
             "tags": [
-                   "Inline-Skaten"
             ],
             "date_published": "2017-08-30T08:11:42+02:00",
             "date_modified": "2020-05-02T15:39:44+02:00"
@@ -47,7 +45,6 @@
                 "name": "Andreas"
             },
             "tags": [
-                   "Wandern"
             ],
             "date_published": "2017-08-25T22:36:16+02:00",
             "date_modified": "2017-09-18T20:58:17+02:00"
@@ -56,15 +53,11 @@
             "id": "http://woeber.blog/willkommen.html",
             "url": "http://woeber.blog/willkommen.html",
             "title": "Willkommen",
-            "summary": "...auch dieser Blog muss mit \"Hello World!\" anfangen! ",
+            "summary": "...auch dieser Blog muss mit \"Hello World!\" anfangen!",
             "author": {
                 "name": "Andreas"
             },
             "tags": [
-                   "Wandern",
-                   "Sonstiges",
-                   "Smarthome",
-                   "Mountain-Bike"
             ],
             "date_published": "2017-08-17T22:35:53+02:00",
             "date_modified": "2020-05-02T15:38:38+02:00"
