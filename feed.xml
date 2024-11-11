@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Woeber.Blog</title>
-    <link href="http://woeber.blog/feed.xml" rel="self" />
-    <link href="http://woeber.blog" />
+    <link href="https://woeber.blog/feed.xml" rel="self" />
+    <link href="https://woeber.blog" />
     <updated>2024-11-02T18:52:32+01:00</updated>
     <author>
         <name>Andreas</name>
     </author>
-    <id>http://woeber.blog</id>
+    <id>https://woeber.blog</id>
 
     <entry>
         <title>Start: Mountainbike</title>
         <author>
             <name>Andreas</name>
         </author>
-        <link href="http://woeber.blog/start-mountainbike.html"/>
-        <id>http://woeber.blog/start-mountainbike.html</id>
+        <link href="https://woeber.blog/start-mountainbike.html"/>
+        <id>https://woeber.blog/start-mountainbike.html</id>
 
         <updated>2017-09-07T22:06:19+02:00</updated>
             <summary>
@@ -30,8 +30,8 @@
         <author>
             <name>Andreas</name>
         </author>
-        <link href="http://woeber.blog/inline-skaten-die-etwas-andere-tour.html"/>
-        <id>http://woeber.blog/inline-skaten-die-etwas-andere-tour.html</id>
+        <link href="https://woeber.blog/inline-skaten-die-etwas-andere-tour.html"/>
+        <id>https://woeber.blog/inline-skaten-die-etwas-andere-tour.html</id>
 
         <updated>2017-08-30T08:11:42+02:00</updated>
             <summary>
@@ -46,8 +46,8 @@
         <author>
             <name>Andreas</name>
         </author>
-        <link href="http://woeber.blog/kuckucksbahnel.html"/>
-        <id>http://woeber.blog/kuckucksbahnel.html</id>
+        <link href="https://woeber.blog/kuckucksbahnel.html"/>
+        <id>https://woeber.blog/kuckucksbahnel.html</id>
 
         <updated>2017-08-25T22:36:16+02:00</updated>
             <summary>
@@ -62,8 +62,8 @@
         <author>
             <name>Andreas</name>
         </author>
-        <link href="http://woeber.blog/willkommen.html"/>
-        <id>http://woeber.blog/willkommen.html</id>
+        <link href="https://woeber.blog/willkommen.html"/>
+        <id>https://woeber.blog/willkommen.html</id>
 
         <updated>2017-08-17T22:35:53+02:00</updated>
             <summary>

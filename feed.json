@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Woeber.Blog",
     "description": "",
-    "home_page_url": "http://woeber.blog",
-    "feed_url": "http://woeber.blog/feed.json",
+    "home_page_url": "https://woeber.blog",
+    "feed_url": "https://woeber.blog/feed.json",
     "user_comment": "",
-    "icon": "http://woeber.blog/media/website/Bildschirmfoto_2017-08-31-2.png",
+    "icon": "https://woeber.blog/media/website/Bildschirmfoto_2017-08-31-2.png",
     "author": {
         "name": "Andreas"
     },
     "items": [
         {
-            "id": "http://woeber.blog/start-mountainbike.html",
-            "url": "http://woeber.blog/start-mountainbike.html",
+            "id": "https://woeber.blog/start-mountainbike.html",
+            "url": "https://woeber.blog/start-mountainbike.html",
             "title": "Start: Mountainbike",
             "summary": "Es gibt im Leben so Ereignisse, die einfach das Zeug dazu haben die Weichen zu stellen. Ein solches Ereignis stellt sicherlich das folgendes Video ganz gut dar: Hero 2017 - Youtube: Die Folge davon seht Ihr im Bild zum Artikel. Da sich das Eichhörnchen mühsam ernährt,&hellip;",
             "author": {
@@ -24,8 +24,8 @@
             "date_modified": "2024-11-02T18:52:32+01:00"
         },
         {
-            "id": "http://woeber.blog/inline-skaten-die-etwas-andere-tour.html",
-            "url": "http://woeber.blog/inline-skaten-die-etwas-andere-tour.html",
+            "id": "https://woeber.blog/inline-skaten-die-etwas-andere-tour.html",
+            "url": "https://woeber.blog/inline-skaten-die-etwas-andere-tour.html",
             "title": "Inline-Skaten - die etwas andere Tour",
             "summary": "Deshalb brauche ich keine Rennen! Oder die etwas andere Tour · Veröffentlicht 26. August 2013 Inlineskatetouren – was ist das oder warum macht es mir soviel Spass? Ein Versuch der Erklärung am Beispiel der www.NRW-Inlinetour.de Mitte August 2013. Dieses Jahr, nach einem Jahr Skatepause war&hellip;",
             "author": {
@@ -37,8 +37,8 @@
             "date_modified": "2020-05-02T15:39:44+02:00"
         },
         {
-            "id": "http://woeber.blog/kuckucksbahnel.html",
-            "url": "http://woeber.blog/kuckucksbahnel.html",
+            "id": "https://woeber.blog/kuckucksbahnel.html",
+            "url": "https://woeber.blog/kuckucksbahnel.html",
             "title": "Kuckucksbähnel",
             "summary": "Ein Ausflug mit der Familie. Da hatte sich dieses Jahr das Kuckucksb&auml;hnel in Neustadt an der Weinstra&szlig;e aufgedr&auml;ngt. Eine sch&ouml;ne Kombination mit Einkehr nach einer kleinen Wanderung. Es war sch&ouml;n! Den flachen Teil der Tour wurde mit der Bahn zur&uuml;ck gelegt. Die anschlie&szlig;ende kleine Wanderung&hellip;",
             "author": {
@@ -50,8 +50,8 @@
             "date_modified": "2017-09-18T20:58:17+02:00"
         },
         {
-            "id": "http://woeber.blog/willkommen.html",
-            "url": "http://woeber.blog/willkommen.html",
+            "id": "https://woeber.blog/willkommen.html",
+            "url": "https://woeber.blog/willkommen.html",
             "title": "Willkommen",
             "summary": "...auch dieser Blog muss mit \"Hello World!\" anfangen!",
             "author": {
