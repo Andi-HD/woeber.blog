@@ -11,19 +11,6 @@
     },
     "items": [
         {
-            "id": "https://woeber.blog/wanderung-durch-den-odenwald.html",
-            "url": "https://woeber.blog/wanderung-durch-den-odenwald.html",
-            "title": "Wanderung durch den Odenwald",
-            "summary": "iniCalendar(); /*0 = wie bisher, Datum wird in die Box geschrieben*/ setReturnModus(1); /*1 = neu, Eventtext wird in die Box geschrieben Das event muss in der calendar.js in der Function getEventtext definiert werden.*/ //setReturnModus(1);",
-            "author": {
-                "name": "Andreas"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-10-10T18:19:00+02:00",
-            "date_modified": "2024-11-16T08:54:58+01:00"
-        },
-        {
             "id": "https://woeber.blog/start-mountainbike.html",
             "url": "https://woeber.blog/start-mountainbike.html",
             "title": "Start: Mountainbike",
