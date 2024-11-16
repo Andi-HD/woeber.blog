@@ -3,12 +3,28 @@
     <title>Woeber.Blog</title>
     <link href="https://woeber.blog/feed.xml" rel="self" />
     <link href="https://woeber.blog" />
-    <updated>2024-11-02T18:52:32+01:00</updated>
+    <updated>2024-11-16T08:54:58+01:00</updated>
     <author>
         <name>Andreas</name>
     </author>
     <id>https://woeber.blog</id>
 
+    <entry>
+        <title>Wanderung durch den Odenwald</title>
+        <author>
+            <name>Andreas</name>
+        </author>
+        <link href="https://woeber.blog/wanderung-durch-den-odenwald.html"/>
+        <id>https://woeber.blog/wanderung-durch-den-odenwald.html</id>
+
+        <updated>2024-10-10T18:19:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                    iniCalendar(); /*0 = wie bisher, Datum wird in die Box geschrieben*/ setReturnModus(1); /*1 = neu, Eventtext wird in die Box geschrieben Das event muss in der calendar.js in der Function getEventtext definiert werden.*/ //setReturnModus(1);
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Start: Mountainbike</title>
         <author>
